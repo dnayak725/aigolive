@@ -1,0 +1,90 @@
+[
+  {
+    "id": 0,
+    "name": "Men’s Apparel",
+    "image": "assets/images/men_aprl.png",
+    "sub_category": [
+      
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Women’s Apparel",
+    "image": "assets/images/women_aprl.png",
+    "sub_category": [
+      {
+        "id": 1,
+        "name": "Women’s Apparel",
+        "image": "assets/images/women_aprl.png"
+      },
+      {
+        "id": 2,
+        "name": "Women’s Apparel",
+        "image": "assets/images/food_bev.png"
+      },
+      {
+        "id": 3,
+        "name": "Women’s Apparel",
+        "image": "assets/images/travel_lug.png"
+      },
+      {
+        "id": 4,
+        "name": "Women’s Apparel",
+        "image": "assets/images/groceri.png"
+      },
+      {
+        "id": 5,
+        "name": "Women’s Apparel",
+        "image": "assets/images/women_aprl.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Kid’s Apparel",
+    "image": "assets/images/kid_aprl.png",
+    "sub_category": [
+      {
+        "id": 1,
+        "name": "Women’s Apparel",
+        "image": "assets/images/women_aprl.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Food & Beverage",
+    "image": "assets/images/food_bev.png",
+    "sub_category": []
+  },
+  {
+    "id": 4,
+    "name": "Mobile & Gadgets",
+    "image": "assets/images/mobile_gad.png",
+    "sub_category": []
+  },
+  {
+    "id": 5,
+    "name": "Home & Living",
+    "image": "assets/images/home_liv.png",
+    "sub_category": []
+  },
+  {
+    "id": 6,
+    "name": "Travel & Luggage",
+    "image": "assets/images/travel_lug.png",
+    "sub_category": []
+  },
+  {
+    "id": 7,
+    "name": "Groceries",
+    "image": "assets/images/groceri.png",
+    "sub_category": []
+  },
+  {
+    "id": 8,
+    "name": "Groceries",
+    "image": "assets/images/groceri.png",
+    "sub_category": []
+  }
+]

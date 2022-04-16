@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918189690388",
+    "firebase_url": "https://aigolive-93cd0.firebaseio.com",
+    "project_id": "aigolive-93cd0",
+    "storage_bucket": "aigolive-93cd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918189690388:android:ba37cc8daad460c3422101",
+        "android_client_info": {
+          "package_name": "com.aigolive.aigolive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918189690388-5mhrmb66ld5128ep7inik9j6hvjjo6kg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aigolive.aigolive",
+            "certificate_hash": "8f1ebf3673c24e36143d4a51bc6926dcc5325a99"
+          }
+        },
+        {
+          "client_id": "918189690388-92p0nkq5cuks2iicln5263kj3ccap9re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmtKdXXPyomSi5o0BjdenT74LsoPgVVp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918189690388-92p0nkq5cuks2iicln5263kj3ccap9re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

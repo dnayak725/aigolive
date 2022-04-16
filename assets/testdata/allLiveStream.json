@@ -1,0 +1,68 @@
+[
+    {
+        "img": "assets/images/stock-photo-asian-man-video-live-streaming-sell-shirt-e-commerce-store-or-blogger-live-broadcasting-selling-1734636923.jpg",
+        "shopName": "Shop Name",
+        "status": "live",
+        "logo": "assets/images/wlogo.png",
+        "category": "Women's Apparel",
+        "title": "Session Title",
+        "watching": "2.1K",
+        "date": "08 Sep 2020",
+        "time": "13:00"
+    },
+    {
+        "img": "assets/images/stock-photo-beauty-woman-show-lipstick-in-live-at-home-1436093915.jpg",
+        "shopName": "Shop Name",
+        "status": "live",
+        "logo": "assets/images/wlogo.png",
+        "category": "Women's Apparel",
+        "title": "Session Title",
+        "watching": "2.1K",
+        "date": "08 Sep 2020",
+        "time": "13:00"
+    },
+    {
+        "img": "assets/images/stock-photo-woman-blogging-online-and-streaming-live-asian-entrepreneur-use-social-media-for-business-at-home-1756997999.jpg",
+        "shopName": "Shop Name",
+        "status": "live",
+        "logo": "assets/images/wlogo.png",
+        "category": "Women's Apparel",
+        "title": "Session Title",
+        "watching": "2.1K",
+        "date": "08 Sep 2020",
+        "time": "13:00"
+    },
+    {
+        "img": "assets/images/stock-photo-asian-woman-blogger-live-steam-video-of-makeup-cosmetic-at-home-online-influencer-on-social-media-1758940715.jpg",
+        "shopName": "Shop Name",
+        "status": "live",
+        "logo": "assets/images/wlogo.png",
+        "category": "Women's Apparel",
+        "title": "Session Title",
+        "watching": "2.1K",
+        "date": "08 Sep 2020",
+        "time": "13:00"
+    },
+    {
+        "img": "assets/images/stock-photo-happy-young-asia-influencer-asian-woman-beauty-blogger-showing-how-to-make-up-video-tutorial-1291090192.jpg",
+        "shopName": "Shop Name",
+        "status": "live",
+        "logo": "assets/images/wlogo.png",
+        "category": "Women's Apparel",
+        "title": "Session Title",
+        "watching": "2.1K",
+        "date": "08 Sep 2020",
+        "time": "13:00"
+    },
+    {
+        "img": "assets/images/stock-photo-shopping-concept-asian-man-is-live-streaming-on-social-media-selling-product-to-online-customer-via-1654003669.jpg",
+        "shopName": "Shop Name",
+        "status": "live",
+        "logo": "assets/images/wlogo.png",
+        "category": "Women's Apparel",
+        "title": "Session Title",
+        "watching": "2.1K",
+        "date": "08 Sep 2020",
+        "time": "13:00"
+    }
+]
